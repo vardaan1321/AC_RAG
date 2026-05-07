@@ -1,0 +1,90 @@
+ACME CORPORATION - PRODUCT CATALOG 2025
+================================================================================
+
+PRODUCT: ProLaptop X1
+SKU: PLX1-2025
+Price: $1,299
+Category: Computing
+
+Description:
+The ProLaptop X1 is our flagship business laptop featuring a 14-inch 4K display,
+Intel Core i7 processor, 16GB RAM, and 512GB NVMe SSD. Battery life is rated at
+12 hours under normal usage. Weight: 1.4 kg.
+
+Warranty: 2 years parts and labor. Extended warranty available for $199/year.
+In Stock: Yes
+
+--------------------------------------------------------------------------------
+
+PRODUCT: CloudDesk Pro
+SKU: CDP-500
+Price: $89/month
+Category: Software / SaaS
+
+Description:
+CloudDesk Pro is our cloud-based project management suite supporting up to 50
+users per workspace. Features include task management, Gantt charts, time
+tracking, and integrations with Slack, GitHub, and Jira. Data is encrypted
+at rest and in transit with AES-256.
+
+Free Trial: 14 days, no credit card required.
+Refund Policy: Monthly plans can be cancelled anytime. Annual plans are
+refundable within 30 days of purchase for a pro-rated amount.
+
+--------------------------------------------------------------------------------
+
+PRODUCT: SecureVault USB
+SKU: SVU-128
+Price: $49
+Category: Hardware Security
+
+Description:
+256-bit AES hardware-encrypted USB drive with 128GB storage. Features a
+PIN-entry keypad with auto-wipe after 10 failed attempts. Compatible with
+Windows, macOS, and Linux. No software installation required.
+
+Warranty: 3 years. Waterproof and shockproof (MIL-STD-810G certified).
+In Stock: Yes
+
+--------------------------------------------------------------------------------
+
+PRODUCT: AcmePhone 15
+SKU: AP15-BLK
+Price: $799
+Category: Mobile Devices
+
+Description:
+AcmePhone 15 features a 6.5-inch OLED display, 50MP triple camera system,
+5000 mAh battery (rated 2 days normal usage), and 5G connectivity. Available
+in Midnight Black, Arctic White, and Ocean Blue. Storage options: 128GB, 256GB.
+
+Warranty: 1 year manufacturer warranty. Screen damage not covered unless
+AcmeCare protection plan is purchased ($99/year).
+
+--------------------------------------------------------------------------------
+
+PRODUCT: ErgoDesk Standing Desk
+SKU: EDS-180
+Price: $649
+Category: Office Furniture
+
+Description:
+Electric height-adjustable standing desk with memory presets for 4 height
+positions. Desktop size: 180cm x 80cm in premium bamboo finish. Load capacity:
+80kg. Quiet dual-motor system raises/lowers in under 20 seconds.
+
+Assembly: Required. Assembly service available for $75 in select cities.
+Delivery: 5-10 business days. Free delivery on orders over $500.
+Warranty: 5 years on frame, 2 years on motor and electronics.
+
+--------------------------------------------------------------------------------
+
+PRICING NOTES:
+- All prices are in USD and exclude applicable taxes.
+- Volume discounts available for orders of 10 or more units (contact sales).
+- Government and education pricing available with valid credentials.
+- Prices are subject to change without notice.
+
+================================================================================
+END OF DOCUMENT
+================================================================================

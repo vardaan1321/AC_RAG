@@ -1,0 +1,187 @@
+ACME CORPORATION - EMPLOYEE HANDBOOK
+Version 3.2 | Effective Date: January 1, 2025
+================================================================================
+
+SECTION 1: REFUND AND RETURNS POLICY
+================================================================================
+
+1.1 Standard Refund Policy
+Customers may request a full refund within 30 days of purchase for any product
+that is unused and in its original packaging. Refunds are processed within 5-7
+business days to the original payment method. After 30 days, only store credit
+is available.
+
+1.2 Defective Products
+If a product is found to be defective within 90 days of purchase, customers are
+entitled to a free replacement or full refund regardless of the 30-day window.
+Customers must provide proof of purchase and photos of the defect.
+
+1.3 Digital Products
+Digital downloads and software licenses are non-refundable once the download
+link has been accessed. Exceptions are made only if the product is found to be
+materially different from its description.
+
+1.4 Shipping Costs
+Original shipping costs are non-refundable unless the return is due to our error
+or a defective product. Return shipping is the customer's responsibility unless
+the item is defective.
+
+================================================================================
+
+SECTION 2: EMPLOYEE LEAVE POLICY
+================================================================================
+
+2.1 Annual Leave
+Full-time employees are entitled to 20 days of paid annual leave per year.
+Part-time employees receive leave on a pro-rata basis. Leave must be approved
+by the direct manager at least 2 weeks in advance, except in emergencies.
+
+2.2 Sick Leave
+Employees are entitled to 10 days of paid sick leave per year. A medical
+certificate is required for absences exceeding 3 consecutive days. Unused sick
+leave does not carry over to the next year.
+
+2.3 Maternity and Paternity Leave
+Primary caregivers are entitled to 16 weeks of paid maternity leave. Secondary
+caregivers are entitled to 4 weeks of paid paternity leave. Adoption leave
+follows the same policy as maternity/paternity leave.
+
+2.4 Emergency Leave
+Up to 3 days of paid emergency leave is available per year for immediate family
+emergencies such as the death of a spouse, parent, child, or sibling.
+
+================================================================================
+
+SECTION 3: REMOTE WORK POLICY
+================================================================================
+
+3.1 Eligibility
+Employees who have completed their 6-month probation period are eligible to
+apply for remote work arrangements. Eligibility is subject to role requirements
+and manager approval.
+
+3.2 Remote Work Days
+Approved remote workers may work from home up to 3 days per week. At least
+2 days per week must be spent in the office to maintain team collaboration.
+Fully remote arrangements require VP-level approval.
+
+3.3 Equipment and Internet
+The company provides a laptop and necessary peripherals for remote work.
+Employees are responsible for maintaining a stable internet connection of at
+least 25 Mbps. A monthly internet allowance of $50 is provided.
+
+3.4 Security Requirements
+Remote employees must connect via the company VPN at all times when accessing
+internal systems. Using public Wi-Fi without VPN is strictly prohibited and
+may result in disciplinary action.
+
+================================================================================
+
+SECTION 4: PERFORMANCE REVIEW PROCESS
+================================================================================
+
+4.1 Review Cycle
+Performance reviews are conducted twice a year: in June and December. The June
+review is a mid-year check-in, and the December review determines year-end
+bonuses and salary adjustments.
+
+4.2 Rating Scale
+Performance is rated on a 5-point scale:
+  5 - Exceptional: Consistently exceeds all expectations
+  4 - Exceeds Expectations: Frequently surpasses goals
+  3 - Meets Expectations: Reliably achieves all goals
+  2 - Needs Improvement: Partially meets expectations
+  1 - Unsatisfactory: Fails to meet basic requirements
+
+4.3 Bonus Structure
+Employees rated 5 receive a 15% annual bonus. Employees rated 4 receive a 10%
+bonus. Employees rated 3 receive a 5% bonus. Ratings of 2 or below do not
+qualify for a bonus. Bonuses are paid in January of the following year.
+
+4.4 Salary Increases
+Merit-based salary increases are tied to the December review. Exceptional
+performers (rating 5) receive up to 8% increase. Employees rated 4 receive
+up to 5%. Employees rated 3 receive a standard 2-3% cost-of-living adjustment.
+
+================================================================================
+
+SECTION 5: IT AND DATA SECURITY POLICY
+================================================================================
+
+5.1 Password Policy
+All passwords must be at least 12 characters long and include uppercase letters,
+lowercase letters, numbers, and special characters. Passwords must be changed
+every 90 days. Reuse of the last 10 passwords is prohibited.
+
+5.2 Multi-Factor Authentication
+MFA is mandatory for all employees accessing company systems. Approved MFA
+methods include authenticator apps (Google Authenticator, Microsoft Authenticator)
+and hardware security keys. SMS-based MFA is not permitted due to security risks.
+
+5.3 Data Classification
+Company data is classified into four levels:
+  - Public: Can be freely shared externally
+  - Internal: For employee use only, not for external sharing
+  - Confidential: Restricted to authorized teams only
+  - Top Secret: C-suite and legal access only
+
+5.4 Incident Reporting
+Any suspected security breach or data loss must be reported to the IT Security
+team within 1 hour of discovery at security@acme.com. Failure to report a known
+breach is a terminable offence.
+
+================================================================================
+
+SECTION 6: EXPENSE REIMBURSEMENT
+================================================================================
+
+6.1 Pre-Approval Requirement
+All expenses over $500 require pre-approval from the department head before
+being incurred. Expenses submitted without pre-approval may be denied.
+
+6.2 Meal Allowances
+Business meals with clients are reimbursable up to $75 per person. Team meals
+(no clients) are reimbursable up to $30 per person. Alcohol is reimbursable
+only for client entertainment, up to 20% of the total meal cost.
+
+6.3 Travel Expenses
+Economy class airfare is the standard for flights under 6 hours. Business class
+is permitted for flights over 6 hours with VP approval. Hotel stays are
+reimbursable up to $200 per night in standard cities and $300 in major metros
+(New York, San Francisco, London, Tokyo).
+
+6.4 Submission Deadline
+Expense reports must be submitted within 30 days of the expense being incurred.
+Reports submitted after 60 days will not be reimbursed. All receipts must be
+attached to the submission in the Expense Portal.
+
+================================================================================
+
+SECTION 7: CODE OF CONDUCT
+================================================================================
+
+7.1 Workplace Respect
+All employees are expected to treat colleagues, customers, and vendors with
+respect and professionalism. Harassment, discrimination, or bullying of any
+kind will not be tolerated and may result in immediate termination.
+
+7.2 Conflict of Interest
+Employees must disclose any personal relationships or financial interests that
+may conflict with their professional responsibilities. This includes owning
+shares in a competitor (more than 1%) or having a family member in a directly
+competitive role.
+
+7.3 Confidentiality
+Employees must not disclose proprietary information, trade secrets, or
+confidential client data to any external party, including after leaving the
+company. All employees sign a non-disclosure agreement on their first day.
+
+7.4 Social Media
+Employees may not post content that identifies clients, shares confidential
+company information, or disparages the company or its partners on social media.
+Employees should clearly state that personal views are their own and not those
+of ACME Corporation.
+
+================================================================================
+END OF DOCUMENT
+================================================================================

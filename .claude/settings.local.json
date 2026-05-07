@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem -Path \"d:\\\\SpringSpace\\\\rag\" -Force)",
+      "Bash(Select-Object Name, PSIsContainer)",
+      "PowerShell(Get-ChildItem \"$env:USERPROFILE\\\\.m2\\\\repository\\\\org\\\\springframework\\\\ai\" -ErrorAction SilentlyContinue | Select-Object Name)",
+      "PowerShell(Get-ChildItem \"$env:USERPROFILE\\\\.m2\\\\repository\\\\org\\\\springframework\" -ErrorAction SilentlyContinue | Select-Object Name | head -20)",
+      "WebSearch"
+    ]
+  }
+}

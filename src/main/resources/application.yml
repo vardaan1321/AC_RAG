@@ -1,0 +1,45 @@
+spring:
+  application:
+    name: rag-app
+
+  ai:
+    # ── Ollama (local LLM + embedding) ──────────────────────────
+    ollama:
+      base-url: http://localhost:11434
+      chat:
+        model: llama3.2           # LLM for answering questions
+        options:
+          temperature: 0.7
+          num-ctx: 4096
+      embedding:
+        model: nomic-embed-text  # Embedding model (768 dimensions)
+
+    # ── Qdrant Vector Store ──────────────────────────────────────
+    vectorstore:
+      qdrant:
+        host: localhost
+        port: 6334               # gRPC port (not 6333)
+        collection-name: rag-docs
+        use-tls: false
+        initialize-schema: true  # auto-creates collection on startup
+
+  # ── File Upload ──────────────────────────────────────────────
+  servlet:
+    multipart:
+      max-file-size: 50MB
+      max-request-size: 50MB
+
+# ── RAG custom settings ──────────────────────────────────────
+rag:
+  chunk-size: 500          # characters per chunk
+ # chunk-overlap: 100       # overlap between chunks
+  top-k: 5                 # how many chunks to retrieve per query
+
+# ── Server ───────────────────────────────────────────────────
+server:
+  port: 8080
+
+logging:
+  level:
+    org.springframework.ai: INFO
+    com.rag: DEBUG
