@@ -6,13 +6,12 @@ import lombok.NoArgsConstructor;
 
 import java.util.List;
 
-// ── Ask response ──────────────────────────────────────────────────
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
 public class AskResponse {
     private String question;
     private String answer;
-    private List<String> sourcesUsed;   // which chunks were retrieved
+    private List<String> sourcesUsed;
     private long processingTimeMs;
 }

@@ -21,17 +21,9 @@ public class DocumentController {
 
     private final DocumentIngestionService ingestionService;
 
-    /**
-     * POST /api/documents/ingest
-     * Upload a single document (PDF, DOCX, TXT, HTML...)
-     *
-     * Example:
-     *   curl -X POST http://localhost:8080/api/documents/ingest \
-     *        -F "file=@yourfile.pdf"
-     */
     @PostMapping("/ingest")
     public ResponseEntity<IngestResponse> ingestDocument(
-            @RequestParam("file") MultipartFile file) {
+            @RequestParam() MultipartFile file) {
 
         if (file.isEmpty()) {
             return ResponseEntity.badRequest().body(
@@ -50,17 +42,9 @@ public class DocumentController {
         }
     }
 
-    /**
-     * POST /api/documents/ingest/batch
-     * Upload multiple documents at once
-     *
-     * Example:
-     *   curl -X POST http://localhost:8080/api/documents/ingest/batch \
-     *        -F "files=@file1.pdf" -F "files=@file2.docx"
-     */
     @PostMapping("/ingest/batch")
     public ResponseEntity<List<IngestResponse>> ingestBatch(
-            @RequestParam("files") List<MultipartFile> files) {
+            @RequestParam() List<MultipartFile> files) {
 
         List<IngestResponse> results = new ArrayList<>();
 
